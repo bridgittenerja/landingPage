@@ -1,12 +1,19 @@
 * {
     text-align: center;
+    /* ELEMENT SELECTORS */
 }
 body {
     background-color:black;
-}
+    background-image: url(https://github.com/bridgittenerja/ActivityImages/blob/main/newBG.jpg?raw=true);
+    background-size: cover;
+}   
 div {
-    background-color: orange;
+    background-color: #B47043;
     width: 80%;
     margin-left:auto;
     margin-right:auto;
+}
+/* CLASSNAME SELECTORS */
+.teaMenu {
+    background-color: rgb(180, 112, 67,0.40);
 }
